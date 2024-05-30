@@ -1,6 +1,6 @@
 ---
-title: Welcome To The Second Brain 🧠
+title: Home of the Second Brain 🧠
 tags:
   - home
 ---
-A second brain powered by obsidian and quartz
+Welcome to the Home of my Second Brain 🧠.
