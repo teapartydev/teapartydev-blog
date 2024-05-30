@@ -1,5 +1,5 @@
 ---
-title: Home of the Drift Dev 💫
+title: Home Of The Drift Dev 💫
 tags:
   - home
 ---
@@ -9,7 +9,7 @@ tags:
 
 ---
 
-Welcome to the drifting developer, where every piece of information I've studied finds its home. Here, you’ll find a meticulously curated collection of insights, ideas, and learnings that power my thinking and creativity. This is more than just a repository; it’s a dynamic, ever-evolving library designed to inspire, educate, and inform.
+Welcome to the home of the drifting developer, where every piece of information I've studied finds its home. Here, you’ll find a meticulously curated collection of insights, ideas, and learnings that power my thinking and creativity. This is more than just a repository; it’s a dynamic, ever-evolving library designed to inspire, educate, and inform.
 
 #### Explore My World of Knowledge
 
