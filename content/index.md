@@ -1,9 +1,9 @@
 ---
-title: Home of the Second Brain 🧠
+title: Home of the Second 🧠
 tags:
   - home
 ---
-#      Welcome To The Home Of My Second Brain 🧠
+#           Welcome To The Home Of My Second 🧠
 
 ---
 
