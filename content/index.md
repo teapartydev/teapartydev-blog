@@ -3,7 +3,7 @@ title: Home of the Second 🧠
 tags:
   - home
 ---
-#           Welcome To The Home Of My Second 🧠
+# Welcome To The Home Of My Second 🧠
 
 ---
 
