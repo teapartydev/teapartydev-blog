@@ -1,17 +1,15 @@
 ---
-title: Home of the Second 🧠
+title: Home of the Drift Dev 💫
 tags:
   - home
 ---
-# Welcome To The Home Of My Second 🧠
-
 ---
 
 ![[home.jpg]]
 
 ---
 
-Welcome to the heart of my knowledge base, where every piece of information I've studied finds its home. Here, you’ll find a meticulously curated collection of insights, ideas, and learnings that power my thinking and creativity. This is more than just a repository; it’s a dynamic, ever-evolving library designed to inspire, educate, and inform.
+Welcome to the drifting developer, where every piece of information I've studied finds its home. Here, you’ll find a meticulously curated collection of insights, ideas, and learnings that power my thinking and creativity. This is more than just a repository; it’s a dynamic, ever-evolving library designed to inspire, educate, and inform.
 
 #### Explore My World of Knowledge
 
