@@ -1,5 +1,5 @@
 ---
-title: Home Of The Drift Dev 💫
+title: Home
 tags:
   - home
 ---
