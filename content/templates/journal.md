@@ -1,6 +1,5 @@
 ---
 title: "{{date}}"
-tags:
-  - journal
-draft: "true"
+tags: [journal]
+draft: true
 ---
