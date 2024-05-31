@@ -49,4 +49,4 @@ I believe in the power of community and collaboration. Feel free to reach out, s
 
 ---
 
-Thank you for visiting the Home of My Second Brain. Let’s embark on this journey of knowledge and discovery together.
+Thank you for visiting the Home of Drift Dev. Let’s embark on this journey of knowledge and discovery together.
