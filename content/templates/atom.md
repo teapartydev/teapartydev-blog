@@ -3,7 +3,7 @@ title: "{{title}}"
 description: 
 aliases: 
 tags:
-  - note
+  - atom
 draft: "true"
 date: "{{date}}"
 ---
