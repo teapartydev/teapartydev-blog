@@ -8,7 +8,7 @@ tags:
 draft: false
 date: 2024-05-31
 ---
-UUID, or Universally Unique Identifier, are standardized identifiers defined by RFC 4122. They are used to uniquely identify information in computer systems. UUIDs are 128-bit numbers represented as a 32-character hexadecimal string, typically displayed in five groups separated by hyphens, like this: "550e8400-e29b-41d4-a716-446655440000".
+UUID, or Universally Unique Identifier, are standardized identifiers defined by RFC 4122. They are used to uniquely identify information in computer systems. UUIDs are 128-bit numbers represented as a 32-character hexadecimal string, typically displayed in five groups separated by hyphens, like this: `550e8400-e29b-41d4-a716-446655440000`.
 
 ### Versions of UUIDs
 1. **Version 1 (Time-based)**: This version uses the current timestamp and the MAC address (or a random node ID) to generate UUIDs. While this version guarantees uniqueness, it may reveal information about the system's network configuration and has a limited resolution of 100 nanoseconds.
@@ -44,7 +44,7 @@ Each UUID is generated using a random or pseudo-random number generator, ensurin
 - **Length**: UUIDs are 128 bits long, which can be inefficient in terms of storage space compared to shorter identifiers.
 - **Readability**: The hexadecimal representation of UUIDs can be less readable than other types of identifiers, especially in logs or user interfaces.
 - **Collisions**: While the probability of generating duplicate UUIDs is low, it is not zero, especially in Version 4 (Random) UUIDs where collisions can occur if the random number generator is not properly seeded.
-- **Selecting and Copying**: Selecting and copying UUIDs can be tricky. UUIDs contain dash (`-`) separators to divide the ID into parts. When trying to select the entire ID for copying, only part of it gets selected because the dashes cause the characters to be treated as separate parts.
+- **Selecting and Copying**: Selecting and copying UUIDs can be tricky. UUIDs contain hyphen (`-`) separators to divide the ID into parts. When trying to select the entire ID for copying, only part of it gets selected because the hyphens cause the characters to be treated as separate parts.
 - **Unsortable**: UUIDs, while useful for generating unique identifiers, have some drawbacks. They are not sortable in the way that sequentially generated IDs are, which can impact performance in certain scenarios. Sorting UUIDs requires additional processing compared to incrementing integer IDs, which can lead to slower database operations, especially in large datasets.
 
 Overall, UUIDs are a powerful tool for generating unique identifiers in distributed systems, providing a balance between uniqueness, ease of generation, and flexibility.
