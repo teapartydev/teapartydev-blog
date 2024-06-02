@@ -44,7 +44,7 @@ Each UUID is generated using a random or pseudo-random number generator, ensurin
 - **Length**: UUIDs are 128 bits long, which can be inefficient in terms of storage space compared to shorter identifiers.
 - **Readability**: The hexadecimal representation of UUIDs can be less readable than other types of identifiers, especially in logs or user interfaces.
 - **Collisions**: While the probability of generating duplicate UUIDs is low, it is not zero, especially in Version 4 (Random) UUIDs where collisions can occur if the random number generator is not properly seeded.
-- **Selecting and Copying**: Selecting and copying UUIDs can be tricky. UUIDs contain hyphen (`-`) separators to divide the ID into parts. When trying to select the entire ID for copying, only part of it gets selected because the hyphens cause the characters to be treated as separate parts.
+- **Selecting and Copying**: Selecting and copying UUIDs can be tricky. UUIDs contain hyphen (`-`) separators to divide the ID into parts. When trying to select the entire ID for copying, only part of it gets selected because the hyphens cause the ID to be treated as five separate parts.
 - **Unsortable**: UUIDs, while useful for generating unique identifiers, have some drawbacks. They are not sortable in the way that sequentially generated IDs are, which can impact performance in certain scenarios. Sorting UUIDs requires additional processing compared to incrementing integer IDs, which can lead to slower database operations, especially in large datasets.
 
 Overall, UUIDs are a powerful tool for generating unique identifiers in distributed systems, providing a balance between uniqueness, ease of generation, and flexibility.

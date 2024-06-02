@@ -12,4 +12,4 @@ In the realm of IDs, UUIDs are like the cool kids everyone wants to hang out wit
 
 We have a tendency use UUIDs brazenly all the time to fulfil the requirement of unique identifiers. The use of UUIDs specifically UUID V4 has become the norm in the world of development though UUIDs have downsides which no one talks about like UUIDs being Unsortable and Incorrectly storing UUIDs can decrease database performance drastically.  
 
-Lets buildup a scenario of using UUIDs as Primary Key identifiers in a database
+Let's build a scenario where we use UUIDs as primary key identifiers in a database schema and identify the potential problems we might encounter.
