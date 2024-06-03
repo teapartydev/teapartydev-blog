@@ -2,7 +2,8 @@
 title: "{{title}}"
 description: 
 aliases: 
-tags: [atom]
+tags:
+  - Atom
 draft: true
 date: "{{date}}"
 ---

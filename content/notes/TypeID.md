@@ -1,0 +1,31 @@
+---
+title: TypeID
+description: 
+aliases: 
+tags:
+  - Note
+draft: false
+date: 2024-06-03
+---
+TypeID is a modern, type-safe identifier format inspired by Stripe IDs. It is designed to be type-safe, K-sortable, and globally unique, based on [[ULID]].
+
+## What is TypeID?
+
+TypeID consists of two parts: a type prefix and a 128-bit ULID encoded as a modified base32 string. The type prefix is a lowercase snake case ASCII string (up to 63 characters) that identifies the type of entity the ID represents. The ULID part is a 26-character base32-encoded string, providing uniqueness and chronological ordering.
+
+#### Format of a TypeID for a user entity
+
+```
+user_01D8C1CYBCA99S6V6T8S2S9NK1
+└──┘ └───────────────────────┘
+type    ULID suffix (base32)
+```
+
+## Benefits of TypeID
+
+- **Type Safety**: TypeIDs ensure that you cannot accidentally use an ID for one type of entity where another type is expected. This reduces errors and makes debugging easier.
+- **Compatibility with ULIDs**: TypeIDs are compatible with ULIDs, ensuring global uniqueness and chronological ordering of identifiers.
+- **K-Sortable**: TypeIDs are designed to be K-sortable, meaning they can be efficiently sorted and used as primary keys in databases, improving locality compared to entirely random IDs like UUIDv4.
+- **Thoughtful Encoding**: The base32 encoding used in TypeIDs is URL safe, case-insensitive, avoids ambiguous characters, and is more compact than traditional hex encoding, making it easier to work with in various scenarios.
+
+In conclusion, TypeID represents a harmonious blend of the best characteristics found in modern identifier formats. It combines the type safety and readability of human-readable identifiers with the global uniqueness and sorting capabilities of UUIDs and ULIDs. TypeIDs offer a robust solution for identifying entities in distributed systems, providing developers with a versatile and efficient tool for managing and referencing data.

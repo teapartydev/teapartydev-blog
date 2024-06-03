@@ -2,7 +2,8 @@
 title: "{{title}}"
 description: 
 aliases: 
-tags: [post]
+tags:
+  - Post
 draft: true
 date: "{{date}}"
 ---

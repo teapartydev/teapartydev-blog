@@ -3,8 +3,7 @@ title: UUID
 description: 
 aliases: 
 tags:
-  - note
-  - uuid
+  - Note
 draft: false
 date: 2024-05-31
 ---

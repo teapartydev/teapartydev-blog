@@ -1,5 +1,6 @@
 ---
 title: "{{date}}"
-tags: [journal]
+tags:
+  - Journal
 draft: true
 ---
