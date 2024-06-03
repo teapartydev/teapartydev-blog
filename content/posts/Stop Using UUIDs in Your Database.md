@@ -34,7 +34,7 @@ We have a tendency use UUIDs brazenly all the time to fulfil the requirement of 
 	- Problem: UUIDs contain hyphens, which can make them harder to copy and paste accurately. These hyphens split the UUID into five parts, each treated as separate segments. This increases the likelihood of errors when manually handling UUIDs, especially in command-line interfaces or scripts.
 	- Solution: Use compact UUID representations without hyphens where appropriate. This makes the UUID easy to copy and paste accurately.
 
-## Alternatives to UUIDs
+## Beyond UUIDs for Unique Identifiers
 
 - ULID (Universally Unique Lexicographically Sortable Identifier)
 	- ULID was developed to address some limitations of UUIDs, specifically their lack of sortability and readability. It is composed of a 48-bit timestamp and an 80-bit random component. This structure makes ULIDs sortable by creation time, as the first part is a millisecond-precision timestamp. Additionally, ULIDs are more human-readable due to their base32 encoding, which uses Crockford's alphabet. With a low probability of collisions thanks to the 80-bit randomness, ULIDs are well-suited for databases where insertion order is important and for systems requiring human-readable IDs.

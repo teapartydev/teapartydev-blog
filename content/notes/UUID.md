@@ -16,7 +16,7 @@ UUID, or Universally Unique Identifier, are standardized identifiers defined by 
 4. **Version 4 (Random)**: This version uses random or pseudo-random numbers to generate UUIDs. It is the most commonly used version due to its simplicity and high likelihood of uniqueness. However, since it relies on randomness, there is a theoretical possibility of generating duplicate UUIDs.
 5. **Version 5 (Name-based, SHA-1)**: Similar to Version 3, this version generates UUIDs based on a namespace identifier and a name, but it uses the SHA-1 hash algorithm instead of MD5. Like Version 3, it ensures uniqueness within a namespace but does not guarantee global uniqueness.
 
-### UUID Version 4 (UUIDv4)
+### Structure of ULID
 UUID Version 4 (UUIDv4) are generated using random or pseudo-random numbers. They are the most commonly used version of UUIDs due to their simplicity and high likelihood of uniqueness. Version 4 UUIDs consist of 122 random bits, with the remaining 6 bits fixed to specific values to indicate the version (4) and variant (RFC 4122).
 
 #### Format of UUID Version 4 
