@@ -1,5 +1,5 @@
 ---
-title: Stop Using UUIDs in Your Database
+title: Reconsidering UUIDs in The Database
 description: 
 aliases: 
 tags:

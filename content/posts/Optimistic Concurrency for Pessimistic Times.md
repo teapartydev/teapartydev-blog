@@ -4,14 +4,16 @@ description:
 aliases: 
 tags:
   - Post
-draft: true
+draft: false
 date: 2024-06-04
 ---
 Let's delve into the realm of concurrency a crucial consideration for every developer crafting services. Concurrency can often lead to unexpected issues when developing services which can cause problems when we least expect them. Therefore, it's essential to treat concurrency with the utmost importance during development.
 
-Concurrency can be managed using two primary methods. Pessimistic Concurrency Control (PCC) and Optimistic Concurrency Control (OCC). Additionally, there is an evolved version of OCC known as Deterministic Optimistic Concurrency Control (DOCC). Let's explore each approach in detail.
+Concurrency can be managed using two primary methods. Pessimistic Concurrency Control (PCC) and Optimistic Concurrency Control (OCC). Additionally, there is an evolved version of OCC known as Deterministic Optimistic Concurrency Control (DOCC). 
 
-## Pessimistic Concurrency Control (PCC)
+## Exploring Approaches to Concurrency Control
+
+### Pessimistic Concurrency Control (PCC)
 
 PCC operates on the assumption that conflicts between concurrent transactions are likely to occur. To prevent these conflicts, resources are locked preemptively. When a transaction needs to access a resource, it must first acquire a lock. This ensures that no other transaction can modify the resource until the lock is released.
 
@@ -34,3 +36,7 @@ DOCC is an evolved version of OCC, designed to reduce the likelihood of conflict
 However, the downside of DOCC is that it is complex to implement and is rarely adopted in practice. The requirement for a deterministic order adds significant overhead to the system's design and execution, making it challenging to integrate into existing infrastructures. Additionally, maintaining the determinism across distributed systems can be particularly demanding, requiring careful synchronization and coordination.
 
 With DOCC, the system can often preemptively identify potential conflicts before they occur, reducing the number of rollbacks required. This approach is particularly beneficial in distributed systems where the cost of rolling back transactions can be high due to network latency and resource coordination.
+
+## Turning Pessimism in to Optimism
+
+The world runs mostly on pessimism so most systems are based on pessimistic concurrency control. 
