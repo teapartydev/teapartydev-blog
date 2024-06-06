@@ -39,4 +39,12 @@ With DOCC, the system can often preemptively identify potential conflicts before
 
 ## Turning Pessimism in to Optimism
 
-The world runs mostly on pessimism so most systems are based on pessimistic concurrency control. 
+In today's world, where pessimism often prevails, many systems rely on PCC to prevent conflicts. However, there is a growing recognition of the benefits of OCC, particularly in scenarios with low contention. Optimistic concurrency provides greater flexibility and can improve performance by reducing the overhead of locks.
+
+To harness the benefits of both approaches, developers can adopt a hybrid approach that combines PCC and OCC. For use cases where conflicts are likely, PCC can be applied to ensure data integrity. In contrast, OCC can be used in scenarios where conflicts are rare to enhance performance and responsiveness.
+
+Despite its advantages, optimism is not suitable for all use cases. In high-contention environments, frequent rollbacks in OCC can degrade performance. Additionally, handling conflicts in OCC can be complex, requiring sophisticated conflict detection and resolution mechanisms.
+
+The evolution of concurrency control mechanisms, such as Deterministic Optimistic Concurrency Control (DOCC), offers a glimpse into the future of concurrency management. DOCC aims to reduce the likelihood of conflicts and the cost of handling them by executing transactions in a deterministic order. While DOCC is complex to implement and not suitable for all scenarios, it represents a step towards more efficient concurrency control strategies.
+
+In conclusion, concurrency control is a complex yet essential aspect of software development. By understanding the nature of their systems and balancing pessimism and optimism, developers can navigate the challenges of concurrency with confidence and efficiency.
