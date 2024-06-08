@@ -27,26 +27,10 @@ Whether you’re a fellow learner, a curious mind, or someone seeking inspiratio
 
 ---
 
-## Featured Sections
-
-### Technology and Software Engineering
-From the latest trends in software development to in-depth tutorials and case studies, explore the technological frontier with me.
-
-### Business Analysis
-Gain insights into strategic thinking, process optimization, and data-driven decision-making. Learn how to analyze and drive business success.
-
-### Personal Development
-Explore tips and strategies for personal growth, productivity, and lifelong learning. Join me in the pursuit of becoming the best version of ourselves.
-
-### Creative Insights
-Discover a collection of creative inspirations, from design principles to storytelling techniques. Unleash your creative potential.
-
----
-
 ## Connect with Me
 
 I believe in the power of community and collaboration. Feel free to reach out, share your thoughts, and join the conversation on [GitHub](https://github.com/arkamfahry/knowledge-base). Together, we can explore, learn, and innovate.
 
 ---
 
-Thank you for visiting the Home of Drift Dev. Let’s embark on this journey of knowledge and discovery together.
+Thank you for visiting the Home of DriftDev. Let’s embark on this journey of knowledge and discovery together.
