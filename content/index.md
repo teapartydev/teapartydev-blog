@@ -9,9 +9,9 @@ tags:
 
 ---
 
-## Welcome to DriftDev
+## Welcome to DriftVault
 
-The home of the DriftDev, where every piece of information I've gathered finds its home. Here, you’ll find a meticulously curated collection of insights, ideas, and learnings that power my thinking and creativity. This is more than just a repository; it’s a dynamic, ever-evolving library designed to inspire, educate, and inform.
+The Knowledgebase of the DriftDev, where every piece of information I've gathered finds its home. Here, you’ll find a meticulously curated collection of insights, ideas, and learnings that power my thinking and creativity. This is more than just a repository; it’s a dynamic, ever-evolving library designed to inspire, educate, and inform.
 
 ### Explore My World of Knowledge
 
