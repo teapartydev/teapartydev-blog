@@ -4,7 +4,7 @@ description:
 aliases: 
 tags:
   - Post
-draft: true
+draft: false
 date: 2024-06-10
 ---
 In the fast-paced world of modern software development, ensuring that your application remains available and responsive during database schema changes is crucial. Any downtime, even for routine database schema changes, can disrupt user experience and potentially lead to loss of revenue and trust. Therefore, implementing zero downtime database schema migrations is essential for modern software development practices. One of the most effective methods for achieving this is by using the "Expand and Contract" pattern.
