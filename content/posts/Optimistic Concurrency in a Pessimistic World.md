@@ -11,7 +11,7 @@ Let's delve into the realm of concurrency a crucial consideration for every deve
 
 Concurrency can be managed using two primary methods. Pessimistic Concurrency Control (PCC) and Optimistic Concurrency Control (OCC). Additionally, there is an evolved version of OCC known as Deterministic Optimistic Concurrency Control (DOCC). 
 
-## Exploring Approaches to Concurrency Control
+## Exploring approaches to concurrency control
 
 ### Pessimistic Concurrency Control (PCC)
 
@@ -37,7 +37,7 @@ However, the downside of DOCC is that it is complex to implement and is rarely a
 
 With DOCC, the system can often preemptively identify potential conflicts before they occur, reducing the number of rollbacks required. This approach is particularly beneficial in distributed systems where the cost of rolling back transactions can be high due to network latency and resource coordination.
 
-## Turning Pessimism in to Optimism
+## Turning pessimism in to optimism
 
 In today's world, where pessimism often prevails, many systems rely on PCC to prevent conflicts. However, there is a growing recognition of the benefits of OCC, particularly in scenarios with low contention. Optimistic concurrency provides greater flexibility and can improve performance by reducing the overhead of locks.
 
