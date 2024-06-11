@@ -13,7 +13,7 @@ When discussing database schema changes, minimizing downtime is crucial. While d
 
 ## What is the expand and contract pattern
 
-The Expand and Contract pattern is not specific to database schema migrations this is a common concept used in software development implement breaking changes safely. The basic concept behind the Expand and Contract pattern involves making changes in two phases to ensure compatibility and continuity.
+The expand and contract pattern is not specific to database schema migrations this is a common concept used in software development implement breaking changes safely. The basic concept behind the Expand and Contract pattern involves making changes in two phases to ensure compatibility and continuity.
 - **Expand Phase**: In this phase, new elements are added to support both the current and future states. This ensures that the system can handle both versions simultaneously. For example, if you're adding a new feature or changing a structure, you first introduce the new components alongside the existing ones.
 - **Contract Phase**: Once the system has been updated and is fully utilizing the new elements, the old elements that are no longer needed are removed. This phase ensures that the system is cleaned up and optimized after the transition.
 This approach allows for seamless transitions without interrupting the service, as the system remains operational throughout the entire process.
@@ -21,4 +21,4 @@ This approach allows for seamless transitions without interrupting the service, 
 
 ## Using expand and contract for schema migrations
 
-By adapting the Expand and Contract pattern for database schema migrations we can mitigate database downtime completely. This involves first expanding the schema to support both the old and new versions of the application. Then, after the application has been updated to use the new schema, the old schema elements can be contracted or removed. This approach ensures that the system remains operational throughout the migration process, providing a seamless transition without any downtime.
+By adapting the expand and contract pattern for database schema migrations we can mitigate database downtime completely. This involves first expanding the schema to support both the old and new versions of the application. Then, after the application has been updated to use the new schema, the old schema elements can be contracted or removed. This approach ensures that the system remains operational throughout the migration process, providing a seamless transition without any downtime.
