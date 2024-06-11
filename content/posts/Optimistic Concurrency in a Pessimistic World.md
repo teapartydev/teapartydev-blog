@@ -17,7 +17,34 @@ Concurrency can be managed using two primary methods. Pessimistic Concurrency Co
 
 PCC operates on the assumption that conflicts between concurrent transactions are likely to occur. To prevent these conflicts, resources are locked preemptively. When a transaction needs to access a resource, it must first acquire a lock. This ensures that no other transaction can modify the resource until the lock is released.
 
-An additional challenge with PCC is the potential for deadlocks. A deadlock occurs when two or more transactions hold locks on resources that the others need to proceed, creating a cycle of dependencies that halts progress. For example, if Transaction A locks Resource 1 and needs Resource 2, while Transaction B locks Resource 2 and needs Resource 1, neither can proceed. Managing and resolving deadlocks requires careful design and often involves timeout mechanisms or deadlock detection algorithms.
+An additional challenge with PCC is the potential for deadlocks. A deadlock occurs when two or more transactions hold locks on resources that the others need to proceed, creating a cycle of dependencies that halts progress. For example.
+```mermaid
+graph TD
+    subgraph Transaction A
+        A1[Lock Resource 1]
+        A2[Needs Resource 2]
+    end
+
+    subgraph Transaction B
+        B1[Lock Resource 2]
+        B2[Needs Resource 1]
+    end
+
+    Resource1[Resource 1]
+    Resource2[Resource 2]
+
+    A1 -->|Lock| Resource1
+    A2 -.->|Wait| Resource2
+
+    B1 -->|Lock| Resource2
+    B2 -.->|Wait| Resource1
+```
+In this diagram:
+- Transaction A locks Resource 1 and needs Resource 2 to proceed.
+- Transaction B locks Resource 2 and needs Resource 1 to proceed.
+- This creates a cycle where Transaction A waits for Resource 2 (locked by Transaction B), and Transaction B waits for Resource 1 (locked by Transaction A), leading to a deadlock.
+
+These deadlocks can cause significant issues in system performance and reliability. Therefore, implementing robust deadlock prevention and resolution mechanisms is crucial to ensure smooth and uninterrupted operations.
 
 This approach proves beneficial in environments with high contention, where the likelihood of conflicts is significant. However, the downside is the increased latency and decreased throughput due to the overhead of acquiring and releasing locks. Essentially, PCC is like taking the precaution of locking a door whenever you enter a room, knowing that someone else might try to come in at the same time.
 
