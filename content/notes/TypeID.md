@@ -7,7 +7,7 @@ tags:
 draft: false
 date: 2024-06-03
 ---
-TypeID is a modern, type-safe identifier format inspired by Stripe IDs. It is based on [[ULID]] and designed to be type-safe, K-sortable, and globally unique, providing a versatile solution for identifying entities in distributed systems.
+TypeID is a modern, type-safe identifier format inspired by StripeIDs. It is based on [[ULID]] and designed to be type-safe, K-sortable, and globally unique, providing a versatile solution for identifying entities in distributed systems.
 
 ## Structure of TypeID
 A TypeID consists of two parts: a type prefix and a 128-bit ULID encoded as a modified base32 string. The type prefix identifies the type of entity the ID represents, while the ULID part ensures uniqueness and chronological ordering.
