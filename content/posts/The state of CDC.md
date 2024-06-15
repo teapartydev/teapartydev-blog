@@ -24,7 +24,7 @@ Change Data Capture (CDC) stands out as the go-to method for maintaining data sy
 The current state of CDC underscores the need for more accessible, lightweight, and adaptable solutions to effectively address the complexities associated with data synchronization.
 
 ## The Ideal CDC Engine
-An ideal CDC engine should address the shortcomings of previous systems, such as Debezium, by providing a scalable, reliable, and lightweight solution for data synchronization. It should be designed to be cloud-native, supporting multi-tenancy and offering simplicity in deployment and use. The CDC engine should allow direct interaction through client SDKs and APIs, eliminating the need for a third-party event broker. It should utilize a lightweight event storage service like NATS or Redis and provide archiving capabilities to store old events efficiently.
+An ideal CDC engine should address the shortcomings of previous systems, such as Debezium, by providing a scalable, reliable, and lightweight solution for data synchronization. It should be designed to be cloud-native, supporting multi-tenancy and offering simplicity in deployment and use. The CDC engine should allow direct interaction through client SDKs and APIs, eliminating the need for a third-party event broker. It should utilize a lightweight event storage service like NATS or ValKey and provide archiving capabilities to store old events efficiently.
 
 In summary, the ideal CDC engine should:
 - **Scale horizontally** to handle large data volumes and increasing demands.
