@@ -8,13 +8,11 @@ draft: false
 date: 2024-06-01
 ---
 ## The elegance and dilemmas of UUIDs
-
 In the realm of database identifiers, [[UUID]]s are like the cool kids everyone wants to hang out with. Why? Because they're ridiculously easy to generate and guarantee that no two IDs are ever the same. It's like having a magical name generator that ensures each entry is unique, so you never have to worry about any awkward name mix-ups. So, next time when you're setting up IDs, just remember: UUIDs are your new best friend or are they your best friend lets talk about this shall we.
 
 We have a tendency use UUIDs brazenly all the time to fulfil the requirement of unique identifiers. The use of UUIDs specifically UUIDv4 has become the norm in the world of development though UUIDs have downsides which no one talks about like UUIDs being Unsortable and Incorrectly storing UUIDs can decrease database performance drastically.
 
 ## Unpacking the challenges of using UUIDs
-
 - Storage
 	- Problem: Storing UUIDs as text fields can lead to inefficiencies. Text fields require more storage space and can lead to slower query performance compared to binary representations. 
 	- Solution: Use the native `UUID` type if available, or store UUIDs in a binary format (`BINARY(16)`) to improve storage efficiency and query performance. This reduces the storage footprint and enhances index performance.
@@ -35,7 +33,6 @@ We have a tendency use UUIDs brazenly all the time to fulfil the requirement of 
 	- Solution: Use compact UUID representations without hyphens where appropriate. This makes the UUID easy to copy and paste accurately.
 
 ## Beyond UUIDs for unique identifiers
-
 - ULID (Universally Unique Lexicographically Sortable Identifier)
 	- ULID was developed to address some limitations of UUIDs, specifically their lack of sortability and readability. It is composed of a 48-bit timestamp and an 80-bit random component. This structure makes ULIDs sortable by creation time, as the first part is a millisecond-precision timestamp. Additionally, ULIDs are more human-readable due to their base32 encoding, which uses Crockford's alphabet. With a low probability of collisions thanks to the 80-bit randomness, ULIDs are well-suited for databases where insertion order is important and for systems requiring human-readable IDs.
 - KSUID (K-Sortable Unique Identifier)
