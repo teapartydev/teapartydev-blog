@@ -1,5 +1,5 @@
 ---
-title: Challenges with CDC engines
+title: Path to an ideal CDC engine
 description: 
 aliases: 
 tags:
