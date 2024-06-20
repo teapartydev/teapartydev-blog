@@ -17,6 +17,5 @@ The expand and contract pattern is not specific to database schema migrations th
 - **Contract Phase**: Once the system has been updated and is fully utilizing the new elements, the old elements that are no longer needed are removed. This phase ensures that the system is cleaned up and optimized after the transition.
 This approach allows for seamless transitions without interrupting the service, as the system remains operational throughout the entire process.
 
-
 ## How to use the expand and contract pattern
 This involves first expanding the schema to support both the old and new versions of the application. Then, after the application has been updated to use the new schema, the old schema elements can be contracted or removed. This approach ensures that the system remains operational throughout the migration process, providing a seamless transition without any downtime.
