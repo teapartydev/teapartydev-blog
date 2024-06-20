@@ -1,4 +1,0 @@
----
-title: Whiteboards
-draft: true
----

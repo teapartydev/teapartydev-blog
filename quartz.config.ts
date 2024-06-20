@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "driftdev.github.io/driftmind",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", "whiteboards", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
