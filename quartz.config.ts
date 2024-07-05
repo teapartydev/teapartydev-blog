@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "DriftMind",
+    pageTitle: "🌌 DriftMind",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
