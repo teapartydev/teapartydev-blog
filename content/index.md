@@ -27,7 +27,7 @@ Whether you’re a fellow learner, a curious mind, or someone seeking inspiratio
 
 ---
 
-## Connect with Me
+## Connect with DriftDev
 
 I believe in the power of community and collaboration. Feel free to reach out, share your thoughts, and join the conversation on [GitHub](https://github.com/driftdev/driftmind). Together, we can explore, learn, and innovate.
 
