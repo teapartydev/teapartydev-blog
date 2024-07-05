@@ -282,6 +282,13 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     // @ts-ignore
     .call(drag(simulation))
 
+  // make tags hollow circles
+  node
+    .filter((d) => d.id.startsWith("tags/"))
+    .attr("stroke", color)
+    .attr("stroke-width", 2)
+    .attr("fill", "var(--light)")
+
   // draw labels
   const labels = graphNode
     .append("text")
@@ -354,7 +361,7 @@ function renderGlobalGraph() {
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const slug = e.detail.url
-  addToVisited(slug)
+  addToVisited(simplifySlug(slug))
   await renderGraph("graph-container", slug)
 
   const containerIcon = document.getElementById("global-graph-icon")
