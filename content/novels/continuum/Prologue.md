@@ -1,0 +1,1 @@
+The Continuum a sequence of stories of a post scarcity society which has chosen to exist in a utopian existences. A civilization which exists in a state of being a civilization which has reached a plateau such existence it's primary concerns are more ethical than existential.
