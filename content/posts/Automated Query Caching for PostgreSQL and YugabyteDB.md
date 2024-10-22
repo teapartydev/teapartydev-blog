@@ -4,11 +4,9 @@ description:
 aliases: 
 tags:
   - Post
-draft: true
+draft: false
 date: 2024-10-21
 ---
-# Automated Query Caching for PostgreSQL and YugabyteDB
-
 The Goldilocks problem of caching involves finding the right balance between caching too much and caching too little. Over-caching leads to stale data, memory bloat, and complex management, while under-caching increases latency, database load, and storage demands. Achieving the right balance is challenging and error-prone.
 
 Caching is widely considered one of the hardest problems in software engineering, primarily due to issues like cache invalidation and data consistency. Poorly implemented caching can not only fail to improve performance but also introduce new issues, such as increased latency and system instability.
