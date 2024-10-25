@@ -5,7 +5,7 @@ tags:
 ---
 ---
 
-![[DriftMind.jpg]]
+![[TeaPartyDev.jpg]]
 
 ---
 
