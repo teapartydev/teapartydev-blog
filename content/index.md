@@ -1,5 +1,5 @@
 ---
-title: Welcome to DriftMind
+title: Welcome to TeaPartyDev
 tags:
   - Home
 ---
@@ -9,11 +9,11 @@ tags:
 
 ---
 
-## Discover the DriftMind
+## Discover the TeaPartyDev
 
 The Knowledge Base of the [DriftDev](https://github.com/driftdev), where every piece of information I've gathered finds its home. Here, you’ll find a meticulously curated collection of insights, ideas, and learnings that power my thinking and creativity. This is more than just a repository; it’s a dynamic, ever-evolving library designed to inspire, educate, and inform.
 
-### Explore the DriftMind
+### Explore the TeaPartyDev
 
 Dive into an array of subjects, from cutting-edge technology and software engineering to timeless principles of business analysis. Every section is thoughtfully organized, making it easy for you to navigate and discover new information.
 
