@@ -28,26 +28,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fafafa",                // Authentic Atom One Light background
+          lightgray: "#e5e5e5",            // Very light gray for panels
+          gray: "#5c6370",                 // Darkened medium gray for better clarity
+          darkgray: "#3b4048",             // Darker gray for primary text
+          dark: "#c678dd",                 // Light purple for headers and accents (matches dark mode)
+          secondary: "#56b6c2",            // Teal for links and accents, consistent with dark mode
+          tertiary: "#98675d",             // Warm pinkish-brown for secondary accents
+          highlight: "rgba(216, 222, 233, 0.15)",  // Light gray for background highlights
+          textHighlight: "#d19a66",        // Light, warm gold for highlighted text
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#282c34",                // Authentic Atom One Dark background
+          lightgray: "#3e4451",            // Slightly lighter than background for panels
+          gray: "#5c6370",                 // Muted gray for secondary text
+          darkgray: "#abb2bf",             // Light gray for main text
+          dark: "#c678dd",                 // Soft purple for headers and accents (replaces red)
+          secondary: "#56b6c2",            // Teal for links and additional accents
+          tertiary: "#d19a66",             // Warm pinkish-orange for secondary accents
+          highlight: "rgba(56, 61, 72, 0.15)",  // Subtle dark highlight
+          textHighlight: "#e5c07b88",      // Soft gold for highlighted text
         },
       },
     },
@@ -65,7 +65,10 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ 
+        enableInHtmlEmbed: true,
+        enableCheckbox: true, 
+      }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
