@@ -11,7 +11,7 @@ tags:
 
 ## Discover the TeaPartyDev
 
-The Knowledge Base of the [DriftDev](https://github.com/driftdev), where every piece of information I've gathered finds its home. Here, you’ll find a meticulously curated collection of insights, ideas, and learnings that power my thinking and creativity. This is more than just a repository; it’s a dynamic, ever-evolving library designed to inspire, educate, and inform.
+The Knowledge Base of the [TeaPartyDev](https://github.com/teapartydev), where every piece of information I've gathered finds its home. Here, you’ll find a meticulously curated collection of insights, ideas, and learnings that power my thinking and creativity. This is more than just a repository; it’s a dynamic, ever-evolving library designed to inspire, educate, and inform.
 
 ### Explore the TeaPartyDev
 
@@ -27,9 +27,9 @@ Whether you’re a fellow learner, a curious mind, or someone seeking inspiratio
 
 ---
 
-## Connect with DriftDev
+## Connect with TeaPartyDev
 
-I believe in the power of community and collaboration. Feel free to reach out, share your thoughts, and join the conversation on [GitHub](https://github.com/driftdev/driftmind). Together, we can explore, learn, and innovate.
+I believe in the power of community and collaboration. Feel free to reach out, share your thoughts, and join the conversation on [GitHub](https://github.com/teapartydev/teapartydev-blog). Together, we can explore, learn, and innovate.
 
 ---
 

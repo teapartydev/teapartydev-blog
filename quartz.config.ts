@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "driftdev.github.io/teapartydev-blog",
+    baseUrl: "teapartydev.github.io/teapartydev-blog",
     ignorePatterns: ["private", "templates", "whiteboards", ".obsidian"],
     defaultDateType: "created",
     theme: {
