@@ -23,7 +23,7 @@ TeaPartyDev is about more than learning—it’s about lighting the spark of ins
 
 ### Grow Alongside TeaPartyDev 🌱
 
-Whether you're a fellow creator, a lifelong learner, or just here to explore, this blog is a place for us to grow together. Every story, every insight, is part of a journey I’m sharing with you—my fellow explorers in the realm of ideas.
+Whether you're a fellow creator, a lifelong learner, or just here to explore, this blog is a place for us to grow together. Every story, every insight, is part of a journey I’m sharing with you my fellow explorers in the realm of ideas.
 
 ---
 
