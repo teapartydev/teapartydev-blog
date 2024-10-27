@@ -1,5 +1,5 @@
 ---
-title: Reconsidering UUIDs in the database
+title: Reconsidering UUIDs in The Database
 description: 
 aliases: 
 tags:
