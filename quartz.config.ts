@@ -30,8 +30,8 @@ const config: QuartzConfig = {
         lightMode: {
           light: "#fafafa",                // Authentic Atom One Light background
           lightgray: "#e5e5e5",            // Very light gray for panels
-          gray: "#5c6370",                 // Darkened medium gray for better clarity
-          darkgray: "#3b4048",             // Darker gray for primary text
+          gray: "#4b535e",                 // Darkened medium gray, slightly darker for better contrast
+          darkgray: "#2f3338",             // Darker gray for primary text, optimized for readability
           dark: "#c678dd",                 // Light purple for headers and accents (matches dark mode)
           secondary: "#56b6c2",            // Teal for links and accents, consistent with dark mode
           tertiary: "#98675d",             // Warm pinkish-brown for secondary accents
