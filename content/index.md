@@ -29,7 +29,7 @@ Whether you're a fellow creator, a lifelong learner, or just here to explore, th
 
 ## Join the TeaPartyDev Community 🤝
 
-The heart of TeaPartyDev lies in its community. Let’s connect, share, and learn together! Feel free to reach out, join the conversation, and contribute your own insights. You can find me on [GitHub](https://github.com/teapartydev/teapartydev-blog) or chat with us on [Discord](https://discord.gg/zG2CbDUw4e). Together, let’s push the boundaries of what we can learn and create.
+The heart of TeaPartyDev lies in its community. Let’s connect, share, and learn together! Feel free to reach out, join the conversation, and contribute your own insights. You can find us on [GitHub](https://github.com/teapartydev/teapartydev-blog) or chat with us on [Discord](https://discord.gg/zG2CbDUw4e). Together, let’s push the boundaries of what we can learn and create.
 
 ---
 
