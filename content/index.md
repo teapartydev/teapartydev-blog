@@ -29,7 +29,7 @@ Whether you’re a fellow learner, a curious mind, or someone seeking inspiratio
 
 ## Connect with TeaPartyDev
 
-I believe in the power of community and collaboration. Feel free to reach out, share your thoughts, and join the conversation on [GitHub](https://github.com/teapartydev/teapartydev-blog). Together, we can explore, learn, and innovate.
+I believe in the power of community and collaboration. Feel free to reach out, share your thoughts, and join the conversation on [GitHub](https://github.com/teapartydev/teapartydev-blog) or [Discord](https://discord.gg/zG2CbDUw4e). Together, we can explore, learn, and innovate.
 
 ---
 
