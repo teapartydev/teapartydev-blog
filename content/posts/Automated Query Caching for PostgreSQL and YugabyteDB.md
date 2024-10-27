@@ -51,7 +51,7 @@ The ideal cache uses database replication and dynamic, partially stateful datafl
 
 #### Optimized Query Handling
 
-When multiple requests for the same cacheable query (N queries) occur simultaneously, the cache sends only **one** query to the upstream database. The first query retrieves the data and updates the cache, while other identical requests are queued. Once the cache is populated, all queued requests are served by the cache. This reduces redundant traffic to the database, improving efficiency.
+When multiple requests for the same cacheable query (N queries) occur simultaneously, the cache sends only one query to the upstream database. The first query retrieves the data and updates the cache, while other identical requests are queued. Once the cache is populated, all queued requests are served by the cache. This reduces redundant traffic to the database, improving efficiency.
 
 Furthermore, queries are batched and coalesced, meaning multiple similar requests are grouped into fewer database hits. This reduces the load on the database and maximizes system throughput, optimizing overall performance.
 
