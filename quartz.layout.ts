@@ -13,6 +13,9 @@ export const sharedPageComponents: SharedLayout = {
         repoId: 'R_kgDOMCDKww',
         category: 'Q&A',
         categoryId: 'DIC_kwDOMCDKw84CjuoI',
+        themeUrl: 'https://teapartydev.github.io/teapartydev-blog/static/giscus',
+        lightTheme: 'atom-one-light',
+        darkTheme: 'atom-one-dark'
       }
     }),
   ],
