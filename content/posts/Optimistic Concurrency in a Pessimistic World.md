@@ -1,5 +1,5 @@
 ---
-title: Optimistic concurrency in a pessimistic world
+title: Optimistic Concurrency in a Pessimistic World
 description: 
 aliases: 
 tags:

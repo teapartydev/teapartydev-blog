@@ -1,5 +1,5 @@
 ---
-title: Zero downtime database schema migrations
+title: Zero Downtime Database Schema Migrations
 description: 
 aliases: 
 tags:
