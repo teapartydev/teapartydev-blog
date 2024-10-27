@@ -1,5 +1,5 @@
 ---
-title: Welcome to TeaPartyDev
+title: Welcome To TeaPartyDev
 tags:
   - Home
 ---
