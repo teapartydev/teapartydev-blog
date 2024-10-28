@@ -4,7 +4,7 @@ description:
 aliases: 
 tags:
   - Note
-draft: true
+draft: false
 date: 2024-10-28
 ---
 - # BaaS
