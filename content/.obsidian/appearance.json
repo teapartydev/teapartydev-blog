@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Atom",
+  "interfaceFontFamily": "JetBrainsMono NF",
+  "textFontFamily": "JetBrainsMono NF",
+  "monospaceFontFamily": "JetBrainsMono NF",
+  "baseFontSize": 14,
+  "showViewHeader": true
+}

@@ -5,5 +5,5 @@ aliases:
 tags:
   - Atom
 draft: true
-date: "{{date}}"
+data: "{{date}}"
 ---

@@ -34,3 +34,5 @@ The heart of TeaPartyDev lies in its community. Let’s connect, share, and lear
 ---
 
 Thank you for visiting the TeaPartyDev Blog! Grab a cup of tea (or coffee ☕️) and let’s journey through knowledge and discovery, one post at a time.
+
+Made By [@TeaPartyDev](https://github.com/teapartydev)
