@@ -29,7 +29,3 @@ We welcome contributions to the TeaPartyDev Blog and Knowledge Base! Here’s ho
 - **Submit Articles**: If you have an idea for a blog post, reach out to us! We’re always looking for fresh perspectives and unique insights.
 - **Improve Existing Content**: Spotted an error or have suggestions? Feel free to submit corrections or expand on current topics.
 - **Join the Conversation**: Participate in discussions on [Discord](https://discord.gg/zG2CbDUw4e) to help build and shape the community.
-
----
-
-This README gives potential contributors and readers a clear understanding of what the blog is about, its goals, and how they can engage with the content and community. Let me know if you need further customization!
