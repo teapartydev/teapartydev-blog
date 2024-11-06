@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b4ff2f94a4048f2",
+        "id": "9e94bba31615938e",
         "type": "tabs",
         "children": [
           {
-            "id": "649e81a055652fb3",
+            "id": "b60b58047cade0c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Data Structures and Algorithms/Sorting Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sorting Algorithms"
+              "title": "New tab"
             }
           }
         ]
@@ -181,16 +177,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "649e81a055652fb3",
+  "active": "b60b58047cade0c7",
   "lastOpenFiles": [
+    "index.md",
+    "notes/Data Structures and Algorithms/Basic Data Structures.md",
+    "notes/Data Structures and Algorithms/index.md",
+    "apps",
+    "notes/index.md",
+    "notes/Untitled.md",
+    "notes/Data Structures and Algorithms",
     "notes/Data Structures and Algorithms/Sorting Algorithms.md",
     "notes/Data Structures and Algorithms/Basic Data Structures and Algorithms.md",
-    "notes/Data Structures and Algorithms/index.md",
-    "notes/index.md",
-    "index.md",
     "notes/Data Structures and Algorithms",
     "journals/index.md",
     "apps/CookieJar.md",
@@ -216,9 +217,7 @@
     "novels/continuum/Prologue.md",
     "attachments/TeaPartyDev.jpg",
     "attachments/DriftMind.jpg",
-    "novels/index.md",
     "whiteboards/Untitled.canvas",
-    "notes/CDC.md",
     "novels/continuum",
     "private",
     "whiteboards"
