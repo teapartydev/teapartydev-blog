@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e94bba31615938e",
+        "id": "1473fd75843c21aa",
         "type": "tabs",
         "children": [
           {
-            "id": "b60b58047cade0c7",
+            "id": "abad4211ddc44dcf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,14 +181,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b60b58047cade0c7",
+  "active": "a6c30f182e4d656e",
   "lastOpenFiles": [
+    "novels/index.md",
+    "notes/Tools and Services.md",
     "index.md",
     "notes/Data Structures and Algorithms/Basic Data Structures.md",
     "notes/Data Structures and Algorithms/index.md",
     "apps",
     "notes/index.md",
-    "notes/Untitled.md",
     "notes/Data Structures and Algorithms",
     "notes/Data Structures and Algorithms/Sorting Algorithms.md",
     "notes/Data Structures and Algorithms/Basic Data Structures and Algorithms.md",
@@ -214,7 +215,6 @@
     "posts/Reconsidering UUIDs in The Database.md",
     "posts/Real-time Incrementally Query Subscriptions On Postgres and YugabyteDB.md",
     "posts/Automated Query Caching for PostgreSQL and YugabyteDB.md",
-    "novels/continuum/Prologue.md",
     "attachments/TeaPartyDev.jpg",
     "attachments/DriftMind.jpg",
     "whiteboards/Untitled.canvas",
