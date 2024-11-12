@@ -11,10 +11,14 @@
             "id": "abad4211ddc44dcf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -183,9 +187,13 @@
   },
   "active": "a6c30f182e4d656e",
   "lastOpenFiles": [
+    "attachments/TeaPartyDev.png",
+    "attachments/TeaPartyDev.jpeg",
+    "attachments/Avatar.jpeg",
+    "index.md",
+    "attachments/TeaPartyDev.jpg",
     "novels/index.md",
     "notes/Tools and Services.md",
-    "index.md",
     "notes/Data Structures and Algorithms/Basic Data Structures.md",
     "notes/Data Structures and Algorithms/index.md",
     "apps",
@@ -214,8 +222,6 @@
     "posts/Zero Downtime Database Schema Migrations.md",
     "posts/Reconsidering UUIDs in The Database.md",
     "posts/Real-time Incrementally Query Subscriptions On Postgres and YugabyteDB.md",
-    "posts/Automated Query Caching for PostgreSQL and YugabyteDB.md",
-    "attachments/TeaPartyDev.jpg",
     "attachments/DriftMind.jpg",
     "whiteboards/Untitled.canvas",
     "novels/continuum",

@@ -5,7 +5,7 @@ tags:
 ---
 ---
 
-![[TeaPartyDev.jpg]]
+![[TeaPartyDev.png]]
 
 ---
 
