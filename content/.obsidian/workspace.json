@@ -11,10 +11,14 @@
             "id": "00a087e21bfc1378",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/atom.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "atom"
             }
           }
         ]
@@ -183,12 +187,14 @@
   },
   "active": "a6c30f182e4d656e",
   "lastOpenFiles": [
-    "posts/Optimistic Concurrency in a Pessimistic World.md",
+    "templates/fragments.md",
+    "templates/journal.md",
     "templates/post.md",
     "templates/note.md",
-    "templates/journal.md",
-    "templates/fragments.md",
+    "journals/2024-12-08.md",
     "templates/atom.md",
+    "notes/BitBend.md",
+    "posts/Optimistic Concurrency in a Pessimistic World.md",
     "journals/2024-12-01.md",
     "notes/BitBend.md",
     "index.md",
@@ -218,8 +224,6 @@
     "posts/Automated Query Caching for Postgres and YugabyteDB.md",
     "notes/For Devs.md",
     "notes/For Developers.md",
-    "notes/Developer Tools.md",
-    "notes/Developer Tools and Services.md",
     "attachments/DriftMind.jpg",
     "whiteboards/Untitled.canvas",
     "novels/continuum",
