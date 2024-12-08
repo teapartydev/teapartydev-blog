@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e27e97f937d271a",
+        "id": "e852de0532a12b82",
         "type": "tabs",
         "children": [
           {
-            "id": "a79b9b410965446e",
+            "id": "00a087e21bfc1378",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -183,15 +183,19 @@
   },
   "active": "a6c30f182e4d656e",
   "lastOpenFiles": [
+    "posts/Optimistic Concurrency in a Pessimistic World.md",
+    "templates/post.md",
+    "templates/note.md",
+    "templates/journal.md",
+    "templates/fragments.md",
+    "templates/atom.md",
     "journals/2024-12-01.md",
     "notes/BitBend.md",
     "index.md",
     "attachments/TeaPartyDev.jpg",
-    "templates/atom.md",
     "apps/index.md",
     "atoms/index.md",
     "apps",
-    "posts/Optimistic Concurrency in a Pessimistic World.md",
     "notes/ReactorDB.md",
     "attachments/TeaPartyDev.png",
     "attachments/TeaPartyDev.jpeg",
@@ -212,10 +216,6 @@
     "apps",
     "services",
     "posts/Automated Query Caching for Postgres and YugabyteDB.md",
-    "templates/fragments.md",
-    "templates/journal.md",
-    "templates/note.md",
-    "templates/post.md",
     "notes/For Devs.md",
     "notes/For Developers.md",
     "notes/Developer Tools.md",

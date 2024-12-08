@@ -5,5 +5,6 @@ aliases:
 tags:
   - Note
 draft: true
-date: "{{date}}"
+created: 
+updated:
 ---

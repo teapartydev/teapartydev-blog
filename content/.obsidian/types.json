@@ -24,6 +24,7 @@
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
     "data": "date",
-    "updated": "date"
+    "updated": "datetime",
+    "created": "datetime"
   }
 }

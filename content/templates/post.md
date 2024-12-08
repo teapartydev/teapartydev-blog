@@ -5,5 +5,6 @@ aliases:
 tags:
   - Post
 draft: true
-date: "{{date}}"
+created: 
+updated:
 ---
