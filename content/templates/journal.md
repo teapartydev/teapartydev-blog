@@ -1,5 +1,5 @@
 ---
-title: "{{date}}"
+title: "{{title}}"
 tags:
   - Journal
 draft: true
