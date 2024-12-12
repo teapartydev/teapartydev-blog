@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "TeaPartyDev Blog",
+    pageTitle: "CodeFrantic Blog",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "teapartydev.github.io/teapartydev-blog",
+    baseUrl: "codefrantic.github.io/codefrantic-blog",
     ignorePatterns: ["private", "templates", "whiteboards", ".obsidian"],
     defaultDateType: "created",
     theme: {

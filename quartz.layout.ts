@@ -9,11 +9,11 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        repo: 'teapartydev/teapartydev-blog',
+        repo: 'codefrantic/codefrantic-blog',
         repoId: 'R_kgDOMCDKww',
         category: 'Q&A',
         categoryId: 'DIC_kwDOMCDKw84CjuoI',
-        themeUrl: 'https://teapartydev.github.io/teapartydev-blog/static/giscus',
+        themeUrl: 'https://codefrantic.github.io/codefrantic-blog/static/giscus',
         lightTheme: 'atom-one-light',
         darkTheme: 'atom-one-dark'
       }
@@ -21,7 +21,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/teapartydev/teapartydev-blog",
+      GitHub: "https://github.com/codefrantic/codefrantic-blog",
       Discord: "https://discord.gg/zG2CbDUw4e",
     },
   }),

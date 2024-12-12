@@ -1,6 +1,6 @@
-# TeaPartyDev Blog Code of Conduct
+# CodeFrantic Blog Code of Conduct
 
-Welcome to the **TeaPartyDev Blog** repository! To maintain a respectful, productive, and inclusive community, we ask everyone to adhere to the following Code of Conduct.
+Welcome to the **CodeFrantic Blog** repository! To maintain a respectful, productive, and inclusive community, we ask everyone to adhere to the following Code of Conduct.
 
 ## 1. Our Pledge
 
@@ -8,7 +8,7 @@ In the interest of fostering an open and welcoming environment, we, as contribut
 
 ## 2. Expected Behavior
 
-We expect all participants in the TeaPartyDev Blog project to:
+We expect all participants in the CodeFrantic Blog project to:
 
 - Be respectful and considerate in all communications.
 - Collaborate with others in a constructive manner.
