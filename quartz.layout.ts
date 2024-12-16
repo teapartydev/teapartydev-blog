@@ -9,11 +9,11 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        repo: 'codefrantic/codefrantic-blog',
+        repo: 'pixelbend/pixelbend-blog',
         repoId: 'R_kgDOMCDKww',
         category: 'Q&A',
         categoryId: 'DIC_kwDOMCDKw84CjuoI',
-        themeUrl: 'https://codefrantic.github.io/codefrantic-blog/static/giscus',
+        themeUrl: 'https://pixelbend.github.io/pixelbend-blog/static/giscus',
         lightTheme: 'atom-one-light',
         darkTheme: 'atom-one-dark'
       }
@@ -21,7 +21,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/codefrantic/codefrantic-blog",
+      GitHub: "https://github.com/pixelbend/pixelbend-blog",
       Discord: "https://discord.gg/zG2CbDUw4e",
     },
   }),

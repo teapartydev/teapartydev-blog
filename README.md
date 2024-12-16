@@ -1,10 +1,10 @@
-# CodeFrantic Blog
+# PixelBend Blog
 
-Welcome to **CodeFrantic Blog** — a blog and knowledge base that serves as a community-driven resource for developers, engineers, and tech enthusiasts. Inspired by the words of Richard Hamming, we aim to keep the "door open" for new insights, exchanges, and inspirations. Here, we share articles, tutorials, reflections, and guides about everything from programming principles to tech culture, productivity, and career development.
+Welcome to **PixelBend Blog** — a blog and knowledge base that serves as a community-driven resource for developers, engineers, and tech enthusiasts. Inspired by the words of Richard Hamming, we aim to keep the "door open" for new insights, exchanges, and inspirations. Here, we share articles, tutorials, reflections, and guides about everything from programming principles to tech culture, productivity, and career development.
 
 ## ✨ What to Expect
 
-CodeFrantic is more than just a blog; it's a knowledge hub where information and ideas are shared for both personal and professional growth. Our focus is on creating high-quality, practical content to inspire curious minds and to foster a supportive developer community. Here’s a snapshot of the type of content you can expect:
+PixelBend is more than just a blog; it's a knowledge hub where information and ideas are shared for both personal and professional growth. Our focus is on creating high-quality, practical content to inspire curious minds and to foster a supportive developer community. Here’s a snapshot of the type of content you can expect:
 
 ### **🚀 Blog Content**
 
@@ -24,7 +24,7 @@ Our mission is to make technology and software development more accessible, enjo
 
 ## 🌱 Contributing
 
-We welcome contributions to the CodeFrantic Blog and Knowledge Base! Here’s how you can get involved:
+We welcome contributions to the PixelBend Blog and Knowledge Base! Here’s how you can get involved:
 
 - **Submit Articles**: If you have an idea for a blog post, reach out to us! We’re always looking for fresh perspectives and unique insights.
 - **Improve Existing Content**: Spotted an error or have suggestions? Feel free to submit corrections or expand on current topics.

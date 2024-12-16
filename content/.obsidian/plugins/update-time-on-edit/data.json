@@ -11,5 +11,7 @@
     "templates"
   ],
   "enableExperimentalHash": false,
-  "fileHashMap": {}
+  "fileHashMap": {
+    "index.md": "813d69d15da207c4223a1cb40a26506fe2996b069a38e1906239b605eb5f011b"
+  }
 }
