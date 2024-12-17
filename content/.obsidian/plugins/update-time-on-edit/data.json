@@ -12,6 +12,7 @@
   ],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "index.md": "813d69d15da207c4223a1cb40a26506fe2996b069a38e1906239b605eb5f011b"
+    "index.md": "710981a4b54c68e3a35415d9ccf0a1a62a03d49be3245ced11b6b1e31100f24e",
+    "posts/BitBend The Transactional Virtual Machine.md": "fa25ce9b868ceab44955a1fa61d337690e153c9fd893b930a4aaaa8ece86a602"
   }
 }
