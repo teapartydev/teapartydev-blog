@@ -183,8 +183,9 @@
   },
   "active": "a6c30f182e4d656e",
   "lastOpenFiles": [
-    "index.md",
+    "posts/index.md",
     "posts/BitBend The Transactional Virtual Machine.md",
+    "index.md",
     "templates/journal.md",
     "templates/atom.md",
     "templates/fragments.md",
@@ -219,7 +220,6 @@
     "apps",
     "services",
     "posts/Automated Query Caching for Postgres and YugabyteDB.md",
-    "notes/For Devs.md",
     "attachments/DriftMind.jpg",
     "whiteboards/Untitled.canvas",
     "novels/continuum",
