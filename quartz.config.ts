@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "pixelbend.github.io/pixelbend-blog",
     ignorePatterns: ["private", "templates", "whiteboards", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
