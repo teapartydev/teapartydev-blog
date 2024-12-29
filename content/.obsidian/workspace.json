@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c29c529740b9bf7c",
+        "id": "34aa36b5942a2edb",
         "type": "tabs",
         "children": [
           {
-            "id": "f44f3d37cd013509",
+            "id": "52940e11b79c20b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,12 +185,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f44f3d37cd013509",
+  "active": "52940e11b79c20b6",
   "lastOpenFiles": [
+    "index.md",
     "posts/BitBend The Transactional Virtual Machine.md",
     "posts/index.md",
     "posts/BitBend The Transactional Virtual Machine.md",
-    "index.md",
     "templates/journal.md",
     "templates/atom.md",
     "templates/fragments.md",
