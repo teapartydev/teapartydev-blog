@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2e51102a42e5cbe",
+        "id": "1ef6d55e61ee419f",
         "type": "tabs",
         "children": [
           {
-            "id": "5030f6ee99450812",
+            "id": "f758159742dd990b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 243.5
   },
   "right": {
     "id": "f12d74b95614ed46",
@@ -181,8 +181,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5030f6ee99450812",
+  "active": "f758159742dd990b",
   "lastOpenFiles": [
+    "novels/continuum/index.md",
+    "novels/continuum/Prologue.md",
     "index.md",
     "notes/BitBend-KV.md",
     "notes/BitBend-Backend.md",
@@ -212,9 +214,7 @@
     "novels/index.md",
     "notes/Tools and Services.md",
     "notes/Data Structures and Algorithms/Basic Data Structures.md",
-    "notes/Data Structures and Algorithms/index.md",
     "apps",
-    "notes/index.md",
     "notes/Data Structures and Algorithms",
     "notes/Data Structures and Algorithms",
     "apps",
