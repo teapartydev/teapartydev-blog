@@ -1,1 +1,10 @@
-{}
+{
+  "languagetool:accept-1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ]
+}

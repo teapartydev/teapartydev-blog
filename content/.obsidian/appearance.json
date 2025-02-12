@@ -4,5 +4,6 @@
   "textFontFamily": "JetBrainsMono Nerd Font Mono",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "baseFontSize": 16,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }
