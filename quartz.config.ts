@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "pixelbend.github.io/pixelbend-blog",
+    baseUrl: "pixelbend.is-a.dev",
     ignorePatterns: ["private", "templates", "whiteboards", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,

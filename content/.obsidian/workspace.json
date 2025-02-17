@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/How to STUDY so FAST it feels like life is on EASY MODE.md",
+                "file": "posts/SIEVE the Cool Cache Eviction Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to STUDY so FAST it feels like life is on EASY MODE"
+              "title": "SIEVE the Cool Cache Eviction Algorithm"
             }
           }
         ]
@@ -188,19 +188,21 @@
   },
   "active": "582097c3c7457fb5",
   "lastOpenFiles": [
+    "posts/Deep Work The Pinnacle of Work.md",
+    "posts/SIEVE the Cool Cache Eviction Algorithm.md",
+    "posts/How to STUDY so FAST it feels like life is on EASY MODE.md",
+    "novels/index.md",
+    "novels/Beyond the Continuum/Prologue.md",
     "notes/Untitled Kanban.md",
     "notes/Business Analysis/Business Analysis.md",
     "Untitled.md",
     "notes/Business Analysis/index.md",
     "notes/index.md",
     "notes/Business Analysis",
-    "posts/How to STUDY so FAST it feels like life is on EASY MODE.md",
     "templates/post.md",
     "index.md",
     "posts/index.md",
-    "novels/Beyond the Continuum/Prologue.md",
     "novels/Beyond the Continuum/index.md",
-    "novels/index.md",
     "novels/continuum/Untitled.md",
     "templates/novel.md",
     "templates/note.md",
@@ -213,8 +215,6 @@
     "posts/BitBend The Transactional Virtual Machine.md",
     "templates/journal.md",
     "templates/atom.md",
-    "journals/2024-12-08.md",
-    "notes/BitBend.md",
     "attachments/TeaPartyDev.jpg",
     "apps",
     "attachments/TeaPartyDev.png",
