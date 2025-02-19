@@ -4,10 +4,10 @@ description:
 aliases: 
 tags:
   - Post
-  - Education
+  - Study
 draft: false
 created: 2025-02-08T11:03
-updated: 2025-02-18T21:56
+updated: 2025-02-19T07:17
 ---
 Let's talk about studying some hate it some like it but most of us feel like studying is hard. What do we do when something feels hard we start procrastinating and wasting time rather trying to find the root of the problem?
 
@@ -42,7 +42,7 @@ Start with the answer. Why spend hours reading the entire text book when you can
 
 Stop reweaving the topics you already know and focus on areas where you're struggling. It's easy to stay in your comfort zone, but real progress happens when you challenge your self. Make a list of topics you find challenging, tackle them head-on. Try using horizontal learning by connecting related concepts, this method deepens your understanding reduces the time needed to grasp complex concepts by creating connections in your brain.
 
-## 07 Harness the oower of AI
+## 07 Harness the power of AI
 
 AI tool like ChatGPT can revolutionize the way you study. Imagine having a personal tutor available 24/7 to help you understand complex concepts, create summaries, generate quizzes ad even provide practice questions tailored to your learning style. With the right prompts you can condense hours of study into minutes and stay focused on the essentials. AI tools speed up your learning process by breaking down difficult topics into digestible bits and offering you personalized explanations so you don't waste time being confused.
 
