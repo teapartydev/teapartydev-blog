@@ -6,13 +6,13 @@ tags:
   - Post
 draft: false
 created: 2025-02-08T11:03
-updated: 2025-03-01T09:27
+updated: 2025-03-01T15:31
 ---
 Let's talk about studying some hate it some like it but most of us feel like studying is hard. What do we do when something feels hard we start procrastinating and wasting time rather trying to find the root of the problem?
 
 So let's get started because I am going to make your brain go viral for the right reason for now on.
 
-The truth is your not the problem it's the boring and inefficient way that you have been taught to study. So I am going to guide you on a journey to study smarter, not harder.
+The truth is you're not the problem it's the boring and inefficient way that you have been taught to study. So I am going to guide you on a journey to study smarter, not harder.
 
 First let's address the elephant in the room hours studied $\neq$ more knowledge. It's the way you study and how efficient you are at studying. There is that guy in our class who study fewer hours than you but gets better grades than you that means his studying methodology is more efficient. So I am going to guide you through a step-by-step guide on how to study like that cool person in your class by studying smarter, not harder.
 
